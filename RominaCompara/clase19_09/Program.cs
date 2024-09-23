@@ -19,7 +19,10 @@ namespace clase19_09
   
             Console.WriteLine(auto1.MostrarInformacion());
 
-           
+            //--------------------------------------------
+            Calculadora calc = new Calculadora(8,4);//espera recibir dos enteros
+            Console.WriteLine(calc.Sumar());
+            Console.WriteLine(calc.Dividir());
         }
     }
 }

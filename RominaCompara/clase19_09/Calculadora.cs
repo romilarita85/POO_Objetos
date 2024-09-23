@@ -16,12 +16,20 @@ namespace clase19_09
         {
             this.primerOperando = n1;
             this.segundoOperando = n2;
-          
+            
+           
         }
         public double Sumar() 
         {
+            //return primerOperando + segundoOperando;
             double sum = this.primerOperando + this.segundoOperando;
             return sum;
+        }
+        public double Dividir()
+        {
+            //return primerOperando + segundoOperando;
+            double div = this.primerOperando/ this.segundoOperando;
+            return div;
         }
     }
 }

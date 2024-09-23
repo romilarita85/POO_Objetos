@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\bin\Debug\net8.0\Intro_POO.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\bin\Debug\net8.0\Intro_POO.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\bin\Debug\net8.0\Intro_POO.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\bin\Debug\net8.0\Intro_POO.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\bin\Debug\net8.0\Intro_POO.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\Intro_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\Intro_POO.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\Intro_POO.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\Intro_POO.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\Intro_POO.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\Intro_POO.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\refint\Intro_POO.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\Intro_POO.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\Intro_POO.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Intro_POO\obj\Debug\net8.0\ref\Intro_POO.dll
