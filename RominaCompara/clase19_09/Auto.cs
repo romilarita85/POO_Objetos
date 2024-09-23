@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace clase19_09
 {
-    //visibilidad de la clase: siempre publica
+    //Visibilidad de la clase: siempre publica
     //Clases de instancia
     public class Auto // si no dice static la clase es de INSTANCIA
     {
@@ -17,25 +17,41 @@ namespace clase19_09
         private string tipo;
         private double cantidadCombustible;
         private Color color;
-        
-        //METODOS SETTERS Y GETTERS
-        public void SetPatente(string patente) 
-        {
+
+        //METODO CONSTRUCTOR
+        public Auto(string patente, int cantidadRuedas, string tipo, double cantidadCombustible)
+        {//no estoy obligato a que reciba todos los atributos dentro del constructor
             this.patente = patente;
+            this.cantidadRuedas = cantidadRuedas;
+            this.tipo = tipo;
+            this.cantidadCombustible = cantidadCombustible;
+            this.color = Color.White;// puedo pasarselo por defacult
         }
-        //this: para saber a que hago referencia. Identifica cual es la instancia
-        public void SetCantRuedas(int cant) 
-        { 
-            this.cantidadRuedas = cant;
-        }
-        public void SetTipo(string tipo) 
-        {
-            this.tipo = tipo;   
-        }
+
+        ////METODOS SETTERS Y GETTERS
+        //public void SetPatente(string patente) 
+        //{
+        //    this.patente = patente;
+        //}
+        ////this: para saber a que hago referencia. Identifica cual es la instancia
+        //public void SetCantRuedas(int cant) 
+        //{ 
+        //    this.cantidadRuedas = cant;
+        //}
+        //public bool SetTipo(string tipo) 
+        //{//Validacion (logica de validacion)
+        //    bool result = false; //por defecto es false(funcioa comu un else)
+        //    if (!string.IsNullOrEmpty(tipo))//variable de string no este vacio ni nula 
+        //    {//si tiene valores para trabajar
+        //        this.tipo = tipo;
+        //        result = true;
+        //    }
+        //    return result;
+        //}
         public bool SetCantCombustible(double cant) 
         {//validaciones dentro del set
             bool ok = false; //por defecto
-            if (cant > 0) 
+            if (cant > 0 && cant < 150) //que tega numeros positivos
             {
                 this.cantidadCombustible = cant; 
                 ok = true;
@@ -45,9 +61,16 @@ namespace clase19_09
         public void SetColor(Color color)
         {
             this.color = color; 
-        } 
-
-        //Metodos -> funciones
+        }
+        public string GetPatente() 
+        {
+            return this.patente;
+        }
+        public double GetCantCombustible() 
+        {
+            return this.cantidadCombustible;
+        }
+        //METODOS -> FUNCIONES
         //Visibilidad-comportamiento-retorno-nombre-parametros(opcional)
         public bool Conducir(double distancia) 
         {//por cada litro de combustible yo puedo hacer cierta distancia

@@ -8,30 +8,15 @@ namespace clase19_09
     {
         //La clase main por defecto es estatica
         static void Main(string[] args)
-        {                    //constructor
-            Auto auto1 = new Auto();
-            
-            //Variables definidas dentro del main
+        {     //Variables definidas dentro del main
             string patente = "AA456CV";//inicialiar la variable
             int cantidadRuedas = 4;
             string tipo = "Sedan";
             double cantidadCombustible = 0;
             Color color = Color.DarkGreen;
-            
-            auto1.SetPatente(patente);
-            auto1.SetTipo(tipo);
-            auto1.SetCantRuedas(cantidadRuedas);
-
-            if (auto1.SetCantCombustible(cantidadCombustible))
-            {
-                Console.WriteLine("Se pudo ingresar la cantidad de combustible");
-            }
-            else 
-            {
-                Console.WriteLine("El valo de cant de combustible es incorrecto");
-            }
-            auto1.SetColor(color);
-
+                            //constructor
+            Auto auto1 = new Auto(patente,cantidadRuedas,"compacto",cantidadCombustible);
+  
             Console.WriteLine(auto1.MostrarInformacion());
 
            
@@ -98,4 +83,44 @@ namespace clase19_09
 //    auto1.patente = "FD123WS"; //cualquier usuario puede modificar
 //                               //no esta protegido, no hay encapsulamiento
 //    Console.WriteLine(auto1.MostrarInformacion());
+//}
+//------------------------------------
+//namespace clase19_09
+//{
+//    internal class Program
+//    {
+//        //La clase main por defecto es estatica
+//        static void Main(string[] args)
+//        {
+//            //constructor
+//            Auto auto1 = new Auto();
+
+
+//            //Variables definidas dentro del main
+//            string patente = "AA456CV";//inicialiar la variable
+//            int cantidadRuedas = 4;
+//            string tipo = "Sedan";
+//            double cantidadCombustible = 0;
+//            Color color = Color.DarkGreen;
+//            //atributos estan ocultos y los uso atraves de metodos set
+//            //auto1.SetPatente(patente);
+//            //auto1.SetTipo(tipo);
+//            //auto1.SetCantRuedas(cantidadRuedas);
+
+//            if (auto1.SetCantCombustible(cantidadCombustible))
+//            {
+//                Console.WriteLine("Se pudo ingresar la cantidad de combustible");
+//            }
+//            else
+//            {
+//                Console.WriteLine("El valo de cant de combustible es incorrecto");
+//            }
+//            auto1.SetColor(color);
+
+//            Console.WriteLine(auto1.GetPatente());
+//            Console.WriteLine(auto1.MostrarInformacion());
+
+
+//        }
+//    }
 //}
