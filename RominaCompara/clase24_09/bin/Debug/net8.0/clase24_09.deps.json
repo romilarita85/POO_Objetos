@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "clase24_09/1.0.0": {
+        "dependencies": {
+          "Biblioteca_Televisor": "1.0.0"
+        },
+        "runtime": {
+          "clase24_09.dll": {}
+        }
+      },
+      "Biblioteca_Televisor/1.0.0": {
+        "runtime": {
+          "Biblioteca_Televisor.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase24_09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_Televisor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
