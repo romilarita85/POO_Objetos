@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90ED1C14-E3AC-4825-8EC6-F2D9720A59D9}|clase24_09\\clase24_09.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\clase24_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90ED1C14-E3AC-4825-8EC6-F2D9720A59D9}|clase24_09\\clase24_09.csproj|solutionrelative:clase24_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E8B221-06AB-4C3C-9D2D-675105EFD5C5}|clase25_09_MetodosEstaticos\\clase25_09_MetodosEstaticos.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\clase25_09_metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E8B221-06AB-4C3C-9D2D-675105EFD5C5}|clase25_09_MetodosEstaticos\\clase25_09_MetodosEstaticos.csproj|solutionrelative:clase25_09_metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6E4BBE1-B108-466A-AEC5-15A64244F048}|Biblioteca_Televisor\\Biblioteca_Televisor.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\biblioteca_televisor\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6E4BBE1-B108-466A-AEC5-15A64244F048}|Biblioteca_Televisor\\Biblioteca_Televisor.csproj|solutionrelative:biblioteca_televisor\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E8B221-06AB-4C3C-9D2D-675105EFD5C5}|clase25_09_MetodosEstaticos\\clase25_09_MetodosEstaticos.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\clase25_09_metodosestaticos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E8B221-06AB-4C3C-9D2D-675105EFD5C5}|clase25_09_MetodosEstaticos\\clase25_09_MetodosEstaticos.csproj|solutionrelative:clase25_09_metodosestaticos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Televisor.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Televisor\\Televisor.cs",
-              "RelativeDocumentMoniker": "Biblioteca_Televisor\\Televisor.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Televisor\\Televisor.cs",
-              "RelativeToolTip": "Biblioteca_Televisor\\Televisor.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowE4AAAAqAAAAAAAAAA==",
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase25_09_MetodosEstaticos\\Empresa.cs",
+              "RelativeDocumentMoniker": "clase25_09_MetodosEstaticos\\Empresa.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase25_09_MetodosEstaticos\\Empresa.cs",
+              "RelativeToolTip": "clase25_09_MetodosEstaticos\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T12:32:54.383Z",
+              "WhenOpened": "2024-09-26T14:33:25.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase24_09\\Program.cs",
-              "RelativeDocumentMoniker": "clase24_09\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase24_09\\Program.cs",
-              "RelativeToolTip": "clase24_09\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase25_09_MetodosEstaticos\\Program.cs",
+              "RelativeDocumentMoniker": "clase25_09_MetodosEstaticos\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase25_09_MetodosEstaticos\\Program.cs",
+              "RelativeToolTip": "clase25_09_MetodosEstaticos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T12:30:16.923Z",
+              "WhenOpened": "2024-09-26T14:32:16.476Z",
               "EditorCaption": ""
             }
           ]

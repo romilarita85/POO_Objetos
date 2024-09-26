@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\bin\Debug\net8.0\clase25_09_MetodosEstaticos.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\bin\Debug\net8.0\clase25_09_MetodosEstaticos.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\bin\Debug\net8.0\clase25_09_MetodosEstaticos.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\bin\Debug\net8.0\clase25_09_MetodosEstaticos.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\bin\Debug\net8.0\clase25_09_MetodosEstaticos.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\clase25_09_MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\clase25_09_MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\clase25_09_MetodosEstaticos.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\clase25_09_MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\clase25_09_MetodosEstaticos.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\clase25_09_MetodosEstaticos.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\refint\clase25_09_MetodosEstaticos.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\clase25_09_MetodosEstaticos.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\clase25_09_MetodosEstaticos.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\clase25_09_MetodosEstaticos\obj\Debug\net8.0\ref\clase25_09_MetodosEstaticos.dll
