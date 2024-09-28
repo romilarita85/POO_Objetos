@@ -19,11 +19,19 @@
             Auto.nacionalidad = "Argentina";
         }
         //Setters:
-        public void SetCombustible(double cantidad)
+        public void SetCantCombustible(double cantidad)
         {
             this.cantCombustible = cantidad;
         }
-        public void SetNacionalidad(string nacionalidad) 
+        #region Metodo SetNacionalidad de instancia
+        //public void SetNacionalidad(string nacionalidad) 
+        //{
+        //    Auto.nacionalidad = nacionalidad;
+        //}
+        #endregion
+        
+        //Metodo SetNacionalidad estatico
+        public static void SetNacionalidad(string nacionalidad)
         {
             Auto.nacionalidad = nacionalidad;
         }
@@ -32,7 +40,7 @@
            this.marca = marca;
         }
         //Getters:
-        public double GetCombustible()
+        public double GetCantCombustible()
         {
             return this.cantCombustible;
         }

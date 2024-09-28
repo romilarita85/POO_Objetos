@@ -14,10 +14,10 @@ namespace clase26_09_Repaso
             //
 
             //PROTOTIPOS:**********************************************************************
-            //Que no reciben parametros y q no devuelven nada
-            //Que recibe y no retorna
-            //Recibe y retorna ->>Es la q usamos
-            //No recibe y retorna
+            //1)-Que no reciben parametros y q no devuelven nada
+            //2)-Que recibe y no retorna
+            //3)-Recibe y retorna ->>Es la q usamos
+            //4)-No recibe y retorna
 
             //PASOS A TENER PRESENTE AL CREAR UNA FUNCION-METODO*******************************
             //visibilidad-comportamiento-retorno-nombre-parametros(opcional)
@@ -79,6 +79,7 @@ namespace clase26_09_Repaso
 
             Auto a1 = new Auto("AD456DE","Ford",70);
             Auto a2 = new Auto("AD456DE", "Ford", 60);
+            EstacionDeServicio e1 = new EstacionDeServicio();//creo una nueva instancia   
 
             #region Usando metodo de instancia CompararAuto*******
             ////Para poder usar el metodo de instancia CompararAuto tengo que tener creados los objetos a1 y a2
@@ -93,7 +94,6 @@ namespace clase26_09_Repaso
 
             //}
             #endregion
-
             #region Usando metodo estatico CompararAuto*****
             //siempre que quiero acceder a algo estatico tengo que acceder por medio del nombre de la clase
 
@@ -106,31 +106,65 @@ namespace clase26_09_Repaso
             //    Console.WriteLine("son distintos");
             //}
             #endregion
-
             #region Usando metodo static GetNacionalidad
-            ////veo de que nacionalidad es los objetos auto
+            ////veo de que nacionalidad son los objetos auto
             //Console.WriteLine(Auto.GetNacionalidad());
 
             //Console.WriteLine(a1.GetNacionalidad());
             //Console.WriteLine(a2.GetNacionalidad());
             #endregion
-
             //*******************************
-            //Por mas de que modifique el atributo estatico(propio d la clase) en cualquier instancia(ejemplo auto 2-a2)
-            //modifico todos los autos.Modifico todos los valores para la clase auto
-            Console.WriteLine("AUTO 1: ");
-            Console.WriteLine($"{a1.GetNacionalidad()} - {a1.GetMarca()}");
-            Console.WriteLine("AUTO 2: ");
-            Console.WriteLine($"{a2.GetNacionalidad()} - {a2.GetMarca()}");
-            
-            Console.WriteLine("******Modificando el atributo static******");
-            a2.SetNacionalidad("Alemana");
-            a2.SetMarca("Fiat");
-            Console.WriteLine("AUTO 1: ");
-            Console.WriteLine($"{a1.GetNacionalidad()} - {a1.GetMarca()}");
-            Console.WriteLine("AUTO 2: ");
-            Console.WriteLine($"{a2.GetNacionalidad()} - {a2.GetMarca()}");
+            ////Por mas de que modifique el atributo estatico(propio de la clase) en cualquier instancia(ejemplo auto 2-a2)
+            ////modifico todos los autos.Modifico todos los valores para la clase auto
+            #region Usando metodo de instanca SetNacionalidad
 
+            //Console.WriteLine("AUTO 1: ");
+            //Console.WriteLine($"{a1.GetNacionalidad()} - {a1.GetMarca()}");
+            //Console.WriteLine("AUTO 2: ");
+            //Console.WriteLine($"{a2.GetNacionalidad()} - {a2.GetMarca()}");
+
+            //Console.WriteLine("******Modificando el atributo static (nacionalidad) en a2******");
+            //a2.SetNacionalidad("Alemana");// modifico usando la instancia del objeto
+            //Console.WriteLine("******Modificando el atributo de instancia (marca) en a2******");
+            //a2.SetMarca("Fiat");
+
+            //Console.WriteLine("AUTO 1: ");
+            //Console.WriteLine($"{a1.GetNacionalidad()} - {a1.GetMarca()}");
+            //Console.WriteLine("AUTO 2: ");
+            //Console.WriteLine($"{a2.GetNacionalidad()} - {a2.GetMarca()}");
+            #endregion
+
+            #region Usando metodo estatico SetNacionalidad:*****
+            ////Siempre que quiera modificar un atributo estatico, el modificador deberia ser estatico 
+            //Console.WriteLine("AUTO 1: ");
+            //Console.WriteLine($"{a1.GetNacionalidad()} - {a1.GetMarca()}");
+            //Console.WriteLine("AUTO 2: ");
+            //Console.WriteLine($"{a2.GetNacionalidad()} - {a2.GetMarca()}");
+
+            //Console.WriteLine("******Modificando el atributo static (nacionalidad) en a2******");
+            //Auto.SetNacionalidad("Alemana");//modifico por medio de la clase(se modifica para todos los autos)
+
+            //Console.WriteLine("******Modificando el atributo de instancia (marca) en a2******");
+            //a2.SetMarca("Fiat");//modifico algo propio del objeto(afecta solo a la instancia del objeto a2)
+
+            //Console.WriteLine("AUTO 1: ");
+            //Console.WriteLine($"{a1.GetNacionalidad()} - {a1.GetMarca()}");
+            //Console.WriteLine("AUTO 2: ");
+            //Console.WriteLine($"{a2.GetNacionalidad()} - {a2.GetMarca()}");
+            #endregion
+
+            #region Usando la clase estatica EstacionDeServicio
+            //Console.WriteLine($"Auto 1 antes de recargar : {a1.GetCantCombustible}");
+
+            //EstacionDeServicio.RecargarCombustible(a1,100);// -> usando clase estatica
+            //Console.WriteLine($"Auto 1 despues de recargar : {a1.GetCantCombustible}");
+            #endregion
+
+            //Usando la clase de instancia EstacionDeServicio
+            Console.WriteLine($"Auto 1 antes de recargar : {a1.GetCantCombustible}");
+
+            e1.RecargarCombustible(a1, 100); //-> usando clase de instancia
+            Console.WriteLine($"Auto 1 despues de recargar : {a1.GetCantCombustible}");
         }
 
     }

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{9F26D10A-F1A8-4F9C-8F38-4CF4B7D64E87}|clase26_09_Repaso\\clase26_09_Repaso.csproj|solutionrelative:clase26_09_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\biblioteca_auto\\estaciondeservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|solutionrelative:biblioteca_auto\\estaciondeservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\biblioteca_auto\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|solutionrelative:biblioteca_auto\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,20 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Auto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\Auto.cs",
               "RelativeDocumentMoniker": "Biblioteca_Auto\\Auto.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\Auto.cs",
               "RelativeToolTip": "Biblioteca_Auto\\Auto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T13:57:31.75Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstacionDeServicio.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\EstacionDeServicio.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Auto\\EstacionDeServicio.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\EstacionDeServicio.cs",
+              "RelativeToolTip": "Biblioteca_Auto\\EstacionDeServicio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:23:55.15Z",
               "EditorCaption": ""
             },
             {
@@ -50,7 +67,7 @@
               "RelativeDocumentMoniker": "clase26_09_Repaso\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase26_09_Repaso\\Program.cs",
               "RelativeToolTip": "clase26_09_Repaso\\Program.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAADwv3QAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T13:07:10.483Z",
               "EditorCaption": ""
