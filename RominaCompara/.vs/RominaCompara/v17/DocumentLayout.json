@@ -21,6 +21,20 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\Auto.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Auto\\Auto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\Auto.cs",
+              "RelativeToolTip": "Biblioteca_Auto\\Auto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:57:31.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -30,26 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\Auto.cs",
-              "RelativeDocumentMoniker": "Biblioteca_Auto\\Auto.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\Auto.cs",
-              "RelativeToolTip": "Biblioteca_Auto\\Auto.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA7wCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T13:57:31.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase26_09_Repaso\\Program.cs",
               "RelativeDocumentMoniker": "clase26_09_Repaso\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase26_09_Repaso\\Program.cs",
               "RelativeToolTip": "clase26_09_Repaso\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv3QAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T13:07:10.483Z",
               "EditorCaption": ""

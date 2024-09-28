@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "clase26_09_Repaso/1.0.0": {
+        "dependencies": {
+          "Biblioteca_Auto": "1.0.0"
+        },
+        "runtime": {
+          "clase26_09_Repaso.dll": {}
+        }
+      },
+      "Biblioteca_Auto/1.0.0": {
+        "runtime": {
+          "Biblioteca_Auto.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase26_09_Repaso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_Auto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

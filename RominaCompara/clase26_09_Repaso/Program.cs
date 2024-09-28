@@ -76,8 +76,61 @@ namespace clase26_09_Repaso
             //Window forms -> es ejecutable
             //Proyecto de consola -> es ejecutable
             #endregion resumen
-            Auto auto1 = new Auto("AD456DE","Ford",70);
-            Auto auto2 = new Auto("AD456DE", "Ford", 60);
+
+            Auto a1 = new Auto("AD456DE","Ford",70);
+            Auto a2 = new Auto("AD456DE", "Ford", 60);
+
+            #region Usando metodo de instancia CompararAuto*******
+            ////Para poder usar el metodo de instancia CompararAuto tengo que tener creados los objetos a1 y a2
+            ////tengo q tener una instancia de un auto
+            //if (a1.CompararAuto(a2))
+            //{
+            //    Console.WriteLine("son iguales");
+            //}
+            //else 
+            //{
+            //    Console.WriteLine("son distintos");  
+
+            //}
+            #endregion
+
+            #region Usando metodo estatico CompararAuto*****
+            //siempre que quiero acceder a algo estatico tengo que acceder por medio del nombre de la clase
+
+            //if (Auto.CompararAuto(a1,a2))
+            //{
+            //    Console.WriteLine("son iguales");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("son distintos");
+            //}
+            #endregion
+
+            #region Usando metodo static GetNacionalidad
+            ////veo de que nacionalidad es los objetos auto
+            //Console.WriteLine(Auto.GetNacionalidad());
+
+            //Console.WriteLine(a1.GetNacionalidad());
+            //Console.WriteLine(a2.GetNacionalidad());
+            #endregion
+
+            //*******************************
+            //Por mas de que modifique el atributo estatico(propio d la clase) en cualquier instancia(ejemplo auto 2-a2)
+            //modifico todos los autos.Modifico todos los valores para la clase auto
+            Console.WriteLine("AUTO 1: ");
+            Console.WriteLine($"{a1.GetNacionalidad()} - {a1.GetMarca()}");
+            Console.WriteLine("AUTO 2: ");
+            Console.WriteLine($"{a2.GetNacionalidad()} - {a2.GetMarca()}");
+            
+            Console.WriteLine("******Modificando el atributo static******");
+            a2.SetNacionalidad("Alemana");
+            a2.SetMarca("Fiat");
+            Console.WriteLine("AUTO 1: ");
+            Console.WriteLine($"{a1.GetNacionalidad()} - {a1.GetMarca()}");
+            Console.WriteLine("AUTO 2: ");
+            Console.WriteLine($"{a2.GetNacionalidad()} - {a2.GetMarca()}");
+
         }
 
     }

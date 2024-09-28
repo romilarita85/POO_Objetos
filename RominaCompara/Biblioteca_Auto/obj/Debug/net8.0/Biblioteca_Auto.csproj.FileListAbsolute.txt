@@ -1,0 +1,12 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\bin\Debug\net8.0\Biblioteca_Auto.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\bin\Debug\net8.0\Biblioteca_Auto.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\bin\Debug\net8.0\Biblioteca_Auto.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\Biblioteca_Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\Biblioteca_Auto.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\Biblioteca_Auto.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\Biblioteca_Auto.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\Biblioteca_Auto.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\Biblioteca_Auto.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\refint\Biblioteca_Auto.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\Biblioteca_Auto.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\POO_Objetos\RominaCompara\Biblioteca_Auto\obj\Debug\net8.0\ref\Biblioteca_Auto.dll
