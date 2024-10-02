@@ -89,7 +89,7 @@
         public static bool CompararAuto(Auto a1, Auto a2 )//Metodo de instancia
         {
             bool iguales = false;
-            if (a1.marca == a2.marca && a2.patente == a2.patente)
+            if (a1.marca == a2.marca && a1.patente == a2.patente)
             {
                 iguales = true;
             }

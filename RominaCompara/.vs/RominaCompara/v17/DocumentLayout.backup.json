@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{373BFE68-79C2-4CA2-B295-706F57E25656}|clase1_10\\clase1_10_Stringbuilder.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\clase1_10\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373BFE68-79C2-4CA2-B295-706F57E25656}|clase1_10\\clase1_10_Stringbuilder.csproj|solutionrelative:clase1_10\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\biblioteca_auto\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|solutionrelative:biblioteca_auto\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373BFE68-79C2-4CA2-B295-706F57E25656}|clase1_10\\clase1_10.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\clase1_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373BFE68-79C2-4CA2-B295-706F57E25656}|clase1_10\\clase1_10.csproj|solutionrelative:clase1_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F26D10A-F1A8-4F9C-8F38-4CF4B7D64E87}|clase26_09_Repaso\\clase26_09_Repaso.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\clase26_09_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F26D10A-F1A8-4F9C-8F38-4CF4B7D64E87}|clase26_09_Repaso\\clase26_09_Repaso.csproj|solutionrelative:clase26_09_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\biblioteca_auto\\estaciondeservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|solutionrelative:biblioteca_auto\\estaciondeservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\poo_objetos\\rominacompara\\biblioteca_auto\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CFD79F9-F7A1-4DFB-8736-7D2EC1A58622}|Biblioteca_Auto\\Biblioteca_Auto.csproj|solutionrelative:biblioteca_auto\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Auto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\Auto.cs",
               "RelativeDocumentMoniker": "Biblioteca_Auto\\Auto.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\Auto.cs",
               "RelativeToolTip": "Biblioteca_Auto\\Auto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwF8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T13:57:31.75Z",
               "IsPinned": true,
@@ -40,15 +48,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstacionDeServicio.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\EstacionDeServicio.cs",
-              "RelativeDocumentMoniker": "Biblioteca_Auto\\EstacionDeServicio.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\EstacionDeServicio.cs",
-              "RelativeToolTip": "Biblioteca_Auto\\EstacionDeServicio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase1_10\\Estudiante.cs",
+              "RelativeDocumentMoniker": "clase1_10\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase1_10\\Estudiante.cs",
+              "RelativeToolTip": "clase1_10\\Estudiante.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T21:23:55.15Z",
+              "WhenOpened": "2024-10-02T14:11:52.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase1_10\\Program.cs",
+              "RelativeDocumentMoniker": "clase1_10\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase1_10\\Program.cs",
+              "RelativeToolTip": "clase1_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:09:24.135Z",
               "EditorCaption": ""
             },
             {
@@ -61,13 +82,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "EstacionDeServicio.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\EstacionDeServicio.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Auto\\EstacionDeServicio.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\Biblioteca_Auto\\EstacionDeServicio.cs",
+              "RelativeToolTip": "Biblioteca_Auto\\EstacionDeServicio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:23:55.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase26_09_Repaso\\Program.cs",
               "RelativeDocumentMoniker": "clase26_09_Repaso\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\POO_Objetos\\RominaCompara\\clase26_09_Repaso\\Program.cs",
               "RelativeToolTip": "clase26_09_Repaso\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T13:07:10.483Z",
               "EditorCaption": ""

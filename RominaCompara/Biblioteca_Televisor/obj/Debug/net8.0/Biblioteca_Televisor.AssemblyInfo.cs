@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Biblioteca_Televisor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2685c34360c8891ffaa66882a3dac341b10d1d31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbd0c329ed1a912fff6c58d3f258fcf9a380a070")]
 [assembly: System.Reflection.AssemblyProductAttribute("Biblioteca_Televisor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Biblioteca_Televisor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
