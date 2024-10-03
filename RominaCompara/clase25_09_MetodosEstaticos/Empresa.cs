@@ -49,11 +49,12 @@ namespace clase25_09_MetodosEstaticos
             //else 
             //{
             //    if (e1.razonSocial.CompareTo(e2.razonSocial) == 1)
-            //    {//si la primera alfav}beticamente es mayor q la segunda
+            //    {//si la primera alfabeticamente es mayor q la segunda
             //        comparacion = 1;//oredenadas alfabeticamente
             //    }
             //}
             //return comparacion;
+
             return e1.razonSocial.CompareTo(e2.razonSocial);
         }
     }

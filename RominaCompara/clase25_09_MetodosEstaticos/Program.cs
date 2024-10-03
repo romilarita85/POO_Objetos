@@ -4,9 +4,10 @@
     {
         static void Main(string[] args)
         {
-            //Empresa.EstablecerFechaInicio();//atributo estatico se comparte p/todas las clases
-            ////No necesito un objeto para poder establecer el inicio de actividad
-            ////lo llamo directamente desde la clase(Empresa)
+            //Empresa.EstablecerFechaInicio(); //->atributo estatico se comparte p/todas las clases
+            ///No necesito un objeto para poder establecer el inicio de actividad
+            ///lo llamo directamente desde la clase(Empresa)
+            
             //Empresa miEmpresa = new Empresa("CFP 6");
             //Console.WriteLine(miEmpresa.GetInicioActividades());
             //Console.ReadKey();

@@ -29,7 +29,8 @@ namespace clase1_10_Stringbuilder
         //}
         #endregion
 
-        //Armar cadena con formato: Concatenar con el formato q quiero
+        #region Armar cadena con formato: Concatenar con el formato q quiero
+
         //public string ImprimirEstudiante()
         //{
         //    string mensaje;
@@ -47,14 +48,15 @@ namespace clase1_10_Stringbuilder
         //    }
         //    return mensaje;
         //}
+        #endregion
 
-        //Stringbuilder
+        //Metodo ImprimirEstudiante usando StringBuilder
         public string ImprimirEstudiante()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Su nombre es: {this.nombre}\n");
-            sb.AppendLine($"Nota: {this.nota}\n");
-            sb.AppendLine($"El promedio es: {this.promedio}\n");
+            sb.AppendLine($"Su nombre es: {this.nombre}");
+            sb.AppendLine($"Nota: {this.nota}");
+            sb.AppendLine($"El promedio es: {this.promedio}");
 
 
             if (this.rindioParcial == true)
