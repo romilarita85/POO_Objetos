@@ -88,7 +88,22 @@
             return iguales;
         }
         //lo estatico no se puede instanciar- son propios de la clase
-        
+        public static bool ConvertirStringEntero(string valorAConvertir, out int numeroConvertido) 
+        { //recibe un string y devuelve ese valor
+            int numero;
+            if (int.TryParse(valorAConvertir, out numero)) //si ese valorAConvertir lo pude convertir a entero
+            {
+                numeroConvertido = numero; //si pudo convertir se guarda en numero convertido
+                //devuelvo valor al parametro
+                return true;
+            }
+            else 
+            {
+                numeroConvertido = 0; // no pudo convertir
+                return false;
+            }
+        }
+        //out: le da permiso de salida. Le da permiso para q escriba sobre la variable
     
     }
 }
