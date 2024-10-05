@@ -38,20 +38,22 @@ namespace clase19_09
         //{ 
         //    this.cantidadRuedas = cant;
         //}
-        //public bool SetTipo(string tipo) 
-        //{//Validacion (logica de validacion)
-        //    bool result = false; //por defecto es false(funcioa comu un else)
-        //    if (!string.IsNullOrEmpty(tipo))//variable de string no este vacio ni nula 
-        //    {//si tiene valores para trabajar
-        //        this.tipo = tipo;
-        //        result = true;
-        //    }
-        //    return result;
-        //}
+
+        public bool SetTipo(string tipo)
+        {//Validacion (logica de validacion)
+            bool result = false; //por defecto es false(funcioa comu un else)
+
+            if (!string.IsNullOrEmpty(tipo))//variable de string no este vacio ni nula 
+            {//si tiene valores para trabajar
+                this.tipo = tipo;
+                result = true;
+            }
+            return result;
+        }
         public bool SetCantCombustible(double cant) 
         {//validaciones dentro del set
             bool ok = false; //por defecto
-            if (cant > 0 && cant < 150) //que tega numeros positivos
+            if (cant > 0 && cant < 150) //que tega numeros positivos hasta 150
             {
                 this.cantidadCombustible = cant; 
                 ok = true;
@@ -72,21 +74,23 @@ namespace clase19_09
         }
         //METODOS -> FUNCIONES
         //Visibilidad-comportamiento-retorno-nombre-parametros(opcional)
+        
+        //Metodo Conducir(double distancia) Por cada litro de combustible yo puedo hacer 4 kilometros de distancia
         public bool Conducir(double distancia) 
-        {//por cada litro de combustible yo puedo hacer cierta distancia
+        {
             bool sePudo = false;//por defecto lo inicializo en false
             double consumo = distancia / 4;//por cada litro puedo hacer 4 kilometros
 
             if (cantidadCombustible > consumo) 
             {
-                sePudo = true;
                 cantidadCombustible -= consumo;
+                sePudo = true;
             }
             return sePudo;//retorno
         }
         public string MostrarInformacion() 
         {
-            return $"Patente: {patente} - Tipo: {tipo} - Color: {color.Name} - Cantidad de ruedad: {cantidadRuedas} - Cantidad de combustible {cantidadCombustible}";
+            return $"Patente: {this.patente} - Tipo: {this.tipo} - Color: {this.color.Name} - Cantidad de ruedad: {this.cantidadRuedas} - Cantidad de combustible {this.cantidadCombustible}";
         }
     }
 }

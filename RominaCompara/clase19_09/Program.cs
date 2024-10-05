@@ -47,6 +47,7 @@ namespace clase19_09
 //    Auto auto1 = new Auto();
 
 //    //Variables definidas dentro del main
+
 //    string patente = string.Empty;//inicialiar la variable
 //    int cantidadRuedas = 0;
 //    string tipo = string.Empty;

@@ -4,7 +4,7 @@ namespace Intro_POO
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {            
 //nombre de la clase --nombre de la variable
             Gato unGato;//Es una variable del tipo gato.DECLARACION DE LA VARIABLE->DECLARO
 

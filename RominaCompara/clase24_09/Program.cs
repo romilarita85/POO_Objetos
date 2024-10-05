@@ -8,14 +8,16 @@ namespace clase24_09
         {
             Televisor miTele = new Televisor();
             Televisor laTeleDeAnto = new Televisor("Philips",55,10,true);
-
+            //USANDO METODO MOSTRAR TELEVISOR*******************
             //Console.WriteLine(laTeleDeAnto.MostrarTelevisor());
             //Console.WriteLine(miTele.MostrarTelevisor());
             
-            //laTeleDeAnto.SetMarca("LG");//Cambio el valor de la variable con un setter  de "philip" a "LG"
+            //USANDO METODO SET:*****************************************************
+           //Cambio el valor de la variable con un setter  de "philip" a "LG"********
+            //laTeleDeAnto.SetMarca("LG");
             //Console.WriteLine(laTeleDeAnto.GetMarca());
 
-            //Le doy valores a miTele atravez de los Setters *********************
+            //Le doy valores a miTele atravez de los Setters *************************
             //miTele.SetMarca("Kenji");
             //miTele.SetPulgadas(50);
             //miTele.SetVolumen(5);
@@ -23,12 +25,14 @@ namespace clase24_09
             //Console.WriteLine(miTele.MostrarTelevisor());
 
             //**********************************************************************
+            //USANDO METODO ENCENDER
             laTeleDeAnto.Encender();
             Console.WriteLine(laTeleDeAnto.MostrarTelevisor());
             laTeleDeAnto.Encender();
             Console.WriteLine(laTeleDeAnto.MostrarTelevisor());
             laTeleDeAnto.Encender();
 
+            //USANDO METODO SUBIR VOLUMEN
             for (int i = 0; i < 10; i++) 
             { 
                laTeleDeAnto.SubirVolumen();

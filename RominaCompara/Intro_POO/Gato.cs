@@ -28,7 +28,9 @@ namespace Intro_POO
         {
             Random rnd = new Random();//intanciar variable de tipo random
             int altura = rnd.Next(10,50);//genero la altura de manera aleatoria
+           
             Console.WriteLine("Estoy saltando");
+           
             return altura;//devuelve
         }
     }

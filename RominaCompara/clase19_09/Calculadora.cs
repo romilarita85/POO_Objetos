@@ -27,7 +27,7 @@ namespace clase19_09
         }
         public double Dividir()
         {
-            //return primerOperando + segundoOperando;
+            //return primerOperando / segundoOperando;
             double div = this.primerOperando/ this.segundoOperando;
             return div;
         }
